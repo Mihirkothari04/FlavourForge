@@ -31,7 +31,7 @@ Before running FlavorForge, you need to obtain a Google Gemini API key:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/flavorforge.git
+   git clone https://github.com/MIhirkothari04/flavorforge.git
    cd flavorforge
    ```
 
